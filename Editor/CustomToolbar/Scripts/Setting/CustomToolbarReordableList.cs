@@ -40,6 +40,9 @@ internal static class CustomToolbarReordableList {
 				new ToolbarReserializeSelected(),
 				new ToolbarReserializeAll(),
 				null,
+				
+				new ToolbarJenny(),
+				null,
 			};
 
 			GenericMenu menu = new GenericMenu();

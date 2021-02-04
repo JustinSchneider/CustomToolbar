@@ -41,6 +41,7 @@ namespace UnityToolbarExtender
 					new ToolbarRecompile(),
 					new ToolbarReserializeSelected(),
 					new ToolbarReserializeAll(),
+					new ToolbarJenny(),
 				};
 
 				if (!Directory.Exists("Assets/Editor"))
