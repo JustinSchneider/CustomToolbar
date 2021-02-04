@@ -1,8 +1,8 @@
 {
-  "name": "com.smkplus.custom-toolbar",
-  "version": "1.1.2",
-  "displayName": "Custom-Toolbar",
-  "description": "This custom tool helps you to test and develop your game easily",
+  "name": "com.justinschneider.custom-toolbar",
+  "version": "1.1.3",
+  "displayName": "Custom-Toolbar-Jenny",
+  "description": "This custom toolbar provides several shortcuts and helper functions to speed up development time.",
   "unity": "2019.1",
   "unityRelease": "0b1",
   "keywords": [
@@ -11,9 +11,9 @@
     "editor"
   ],
   "author": {
-    "name": "Seyed Morteza Kamali",
-    "email": "smkplus3d@gmail.com",
-    "url": "https://github.com/smkplus/CustomToolbar"
+    "name": "Justin Schneider",
+    "email": "jms5557@gmail.com",
+    "url": "https://github.com/JustinSchneider/CustomToolbar"
   },
   "type": "tool",
   "samples": [
