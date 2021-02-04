@@ -14,7 +14,7 @@ internal class ToolbarJenny : BaseToolbarElement {
 	public override string NameInList => "[Button] Jenny Generate";
 
 	public override void Init() {
-		jennyBtn = new GUIContent((Texture2D)AssetDatabase.LoadAssetAtPath($"{GetPackageRootPath}/Editor/CustomToolbar/Icons/Jenny@4x.png", typeof(Texture2D)), "Jennyrate");
+		jennyBtn = new GUIContent((Texture2D)AssetDatabase.LoadAssetAtPath($"{GetPackageRootPath}/Editor/CustomToolbar/Icons/Jenny@2x.png", typeof(Texture2D)) as Texture2D, "Jennyrate");
 	}
 
 	protected override void OnDrawInList(Rect position) {
