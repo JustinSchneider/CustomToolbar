@@ -2,6 +2,8 @@
 ![Unity 2019.4+](https://img.shields.io/badge/unity-unity%202019.4%2B-blue)
 ![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)
 
+This repo was forked from [smkplus/CustomToolbar](https://github.com/smkplus/CustomToolbar) for adaptation to include Entitas generate button.
+
 based on this [marijnz unity-toolbar-extender](https://github.com/marijnz/unity-toolbar-extender). 
 
 ![image](https://user-images.githubusercontent.com/16706911/100000419-cff31e00-2dd6-11eb-9a4b-8379e3a7cc50.jpg)
@@ -14,12 +16,12 @@ This custom tool helps you to test and develop your game easily
 ## Installation 
 You can also install via git url by adding this entry in your **manifest.json**
 
-```"com.smkplus.custom-toolbar": "https://github.com/smkplus/CustomToolbar.git#master",```
+```"com.justinschneider.custom-toolbar": "https://github.com/JustinSchneider/CustomToolbar.git#master",```
 
 ## Installation through Unity-Package-Manager (2019.2+) 
  * MenuItem - Window - Package Manager
  * Add package from git url
- * paste https://github.com/smkplus/CustomToolbar.git#master
+ * paste https://github.com/JustinSchneider/CustomToolbar.git#master
 
 ## Sample scenes to test  
 You can import sample scenes from package manager. 
